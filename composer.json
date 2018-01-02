@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "robmorgan/phinx": "^0.6.5",
+        "catfan/Medoo": "^1.1",
+        "pecee/simple-router": "1.8.0.3",
+        "philo/laravel-blade": "^3.1"
+    }
+}
